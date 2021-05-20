@@ -1,0 +1,19 @@
+{
+    "name": "loriwiki/eclair",
+    "description": "Eclair is a Simple PHP micro framework",
+    "type": "library",
+    "license": "MIT",
+    "version": "0.0.1",
+    "authors": [
+        {
+            "name": "loriwiki",
+            "email": "loriwiki@naver.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Eclair\\": "src/"
+        }
+    },
+    "require": {}
+}
